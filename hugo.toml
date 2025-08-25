@@ -47,3 +47,7 @@ limit = 20
 [privacy]
   [privacy.youtube]
     privacyEnhanced = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
