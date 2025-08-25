@@ -1,0 +1,43 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "首頁"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "文章"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "分類"
+  pageRef = "categories"
+  weight = 30
+
+[[main]]
+  name = "標籤"
+  pageRef = "tags"
+  weight = 40
+
+[[main]]
+  name = "關於我"
+  pageRef = "about"
+  weight = 50
+
+# Social links in header (optional)
+# [[main]]
+#   pre = "github"
+#   name = "GitHub"
+#   url = "https://github.com/username"
+#   weight = 60
+
+[[footer]]
+  name = "隱私政策"
+  pageRef = "privacy"
+  weight = 10
+
+[[footer]]
+  name = "聯絡我"
+  pageRef = "contact"
+  weight = 20

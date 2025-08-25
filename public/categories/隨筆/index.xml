@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>隨筆 on SAM ZONE</title>
+    <link>http://localhost:1313/categories/%E9%9A%A8%E7%AD%86/</link>
+    <description>Recent content in 隨筆 on SAM ZONE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <managingEditor>simple6520@gmail.com (Sam Tsai)</managingEditor>
+    <webMaster>simple6520@gmail.com (Sam Tsai)</webMaster>
+    <copyright>© 2025 Sam Tsai</copyright>
+    <lastBuildDate>Mon, 25 Aug 2025 00:39:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E9%9A%A8%E7%AD%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🌟 歡迎來到我的數位世界！</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Mon, 25 Aug 2025 00:39:42 +0800</pubDate>
+      <author>simple6520@gmail.com (Sam Tsai)</author>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;👋 開始的起點 
+    &lt;div id=&#34;-開始的起點&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-%e9%96%8b%e5%a7%8b%e7%9a%84%e8%b5%b7%e9%bb%9e&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;這是我的第一篇 Hugo + Blowfish 部落格文章！能夠在這個數位空間與大家見面，我感到非常興奮。&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;🚀 為什麼選擇寫部落格？ 
+    &lt;div id=&#34;-為什麼選擇寫部落格&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-%e7%82%ba%e4%bb%80%e9%ba%bc%e9%81%b8%e6%93%87%e5%af%ab%e9%83%a8%e8%90%bd%e6%a0%bc&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;在這個快節奏的時代，我發現寫作不僅僅是分享知識的方式，更是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;整理思緒&lt;/strong&gt;：透過文字梳理自己的想法&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;記錄成長&lt;/strong&gt;：留下學習和進步的軌跡&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;連結他人&lt;/strong&gt;：與有共同興趣的朋友交流&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;貢獻社群&lt;/strong&gt;：分享經驗幫助其他人&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;💡 未來的計劃 
+    &lt;div id=&#34;-未來的計劃&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-%e6%9c%aa%e4%be%86%e7%9a%84%e8%a8%88%e5%8a%83&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;在這個部落格中，我計劃分享：&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;技術相關 
+    &lt;div id=&#34;技術相關&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%8a%80%e8%a1%93%e7%9b%b8%e9%97%9c&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;程式開發的心得和技巧&lt;/li&gt;
+&lt;li&gt;新技術的學習筆記&lt;/li&gt;
+&lt;li&gt;專案開發的經驗分享&lt;/li&gt;
+&lt;li&gt;工具和效率提升的方法&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;生活思考 
+    &lt;div id=&#34;生活思考&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%94%9f%e6%b4%bb%e6%80%9d%e8%80%83&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;對科技趨勢的觀察&lt;/li&gt;
+&lt;li&gt;閱讀心得和推薦&lt;/li&gt;
+&lt;li&gt;旅行和文化體驗&lt;/li&gt;
+&lt;li&gt;個人成長的反思&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;🎯 一起成長 
+    &lt;div id=&#34;-一起成長&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-%e4%b8%80%e8%b5%b7%e6%88%90%e9%95%b7&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;每個人的經驗都是獨特且珍貴的。我希望透過這個平台，不僅能分享自己的所學所感，也能從讀者的回饋中獲得新的啟發。&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

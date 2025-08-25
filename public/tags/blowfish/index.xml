@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blowfish on SAM ZONE</title>
+    <link>http://localhost:1313/tags/blowfish/</link>
+    <description>Recent content in Blowfish on SAM ZONE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <managingEditor>simple6520@gmail.com (Sam Tsai)</managingEditor>
+    <webMaster>simple6520@gmail.com (Sam Tsai)</webMaster>
+    <copyright>© 2025 Sam Tsai</copyright>
+    <lastBuildDate>Sun, 24 Aug 2025 10:30:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/blowfish/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🐡 使用 Hugo &#43; Blowfish 建立現代化部落格</title>
+      <link>http://localhost:1313/posts/hugo-blowfish-setup/</link>
+      <pubDate>Sun, 24 Aug 2025 10:30:00 +0800</pubDate>
+      <author>simple6520@gmail.com (Sam Tsai)</author>
+      <guid>http://localhost:1313/posts/hugo-blowfish-setup/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🎯 為什麼選擇 Hugo + Blowfish？ 
+    &lt;div id=&#34;-為什麼選擇-hugo--blowfish&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-%e7%82%ba%e4%bb%80%e9%ba%bc%e9%81%b8%e6%93%87-hugo--blowfish&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;在眾多部落格平台中，我選擇了 Hugo 搭配 Blowfish 主題，主要原因包括：&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Hugo 的優勢 
+    &lt;div id=&#34;hugo-的優勢&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#hugo-%e7%9a%84%e5%84%aa%e5%8b%a2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;⚡ 極快的建置速度&lt;/strong&gt;：Hugo 是世界上最快的靜態網站生成器之一&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🔧 高度可客製化&lt;/strong&gt;：豐富的配置選項和模板系統&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;📱 響應式設計&lt;/strong&gt;：自動適配各種螢幕尺寸&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚀 部署簡單&lt;/strong&gt;：可輕鬆部署到各種平台&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Blowfish 主題特色 
+    &lt;div id=&#34;blowfish-主題特色&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#blowfish-%e4%b8%bb%e9%a1%8c%e7%89%b9%e8%89%b2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🎨 多種顏色主題&lt;/strong&gt;：內建 14+ 種美麗的配色方案&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🌓 深色模式支援&lt;/strong&gt;：自動或手動切換明暗主題&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🔍 內建搜尋功能&lt;/strong&gt;：快速找到所需內容&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;📊 豐富的 Shortcodes&lt;/strong&gt;：輕鬆插入圖表、畫廊等元素&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;🛠️ 設置步驟 
+    &lt;div id=&#34;-設置步驟&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-%e8%a8%ad%e7%bd%ae%e6%ad%a5%e9%a9%9f&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;1. 安裝 Hugo 
+    &lt;div id=&#34;1-安裝-hugo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1-%e5%ae%89%e8%a3%9d-hugo&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# macOS (使用 Homebrew)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;brew install hugo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Windows (使用 Chocolatey)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;choco install hugo -confirm
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Linux (Ubuntu/Debian)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get install hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;2. 建立新網站 
+    &lt;div id=&#34;2-建立新網站&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#2-%e5%bb%ba%e7%ab%8b%e6%96%b0%e7%b6%b2%e7%ab%99&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;hugo new site my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;3. 添加 Blowfish 主題 
+    &lt;div id=&#34;3-添加-blowfish-主題&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#3-%e6%b7%bb%e5%8a%a0-blowfish-%e4%b8%bb%e9%a1%8c&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blowfish
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;4. 基本配置 
+    &lt;div id=&#34;4-基本配置&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#4-%e5%9f%ba%e6%9c%ac%e9%85%8d%e7%bd%ae&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;創建 &lt;code&gt;hugo.toml&lt;/code&gt; 文件：&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

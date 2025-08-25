@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on SAM ZONE</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on SAM ZONE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <managingEditor>simple6520@gmail.com (Sam Tsai)</managingEditor>
+    <webMaster>simple6520@gmail.com (Sam Tsai)</webMaster>
+    <copyright>© 2025 Sam Tsai</copyright>
+    <lastBuildDate>Sun, 24 Aug 2025 10:30:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>部落格建置</title>
+      <link>http://localhost:1313/series/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%BB%BA%E7%BD%AE/</link>
+      <pubDate>Sun, 24 Aug 2025 10:30:00 +0800</pubDate>
+      <author>simple6520@gmail.com (Sam Tsai)</author>
+      <guid>http://localhost:1313/series/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%BB%BA%E7%BD%AE/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

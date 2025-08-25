@@ -1,0 +1,24 @@
+# config/_default/languages.en.toml
+
+title = "SAM ZONE"
+description = "Sam Tsai 的個人部落格 - 分享技術、生活和思考"
+languageCode = "zh-TW"
+languageName = "繁體中文"
+weight = 1
+rtl = false
+
+[params]
+dateFormat = "2006年 1月 2日"
+
+[params.author]
+name = "Sam Tsai"
+image = "img/author.jpg"
+# headline = "🤖 機器學習工程師 | AI 演算法開發者 | 終身學習者"
+bio = "目前在 Taiwan AILabs 擔任機器學習工程師，專精於電腦視覺、自然語言處理和聯邦學習。  \n在這裡分享技術、生活以及價值觀。"
+email = "simple6520@gmail.com"
+links = [
+  { email = "mailto:simple6520@gmail.com" },
+  { github = "https://github.com/nutsam" },
+  { linkedin = "https://linkedin.com/in/mingyingtsai" },
+  { instagram = "https://instagram.com/ntu2131" }
+]
