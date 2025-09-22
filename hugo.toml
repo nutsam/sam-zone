@@ -6,7 +6,7 @@ theme = "blowfish"
 # Content settings
 [pagination]
 pagerSize = 10
-summaryLength = 200
+summaryLength = 100
 hasCJKLanguage = true
 
 # SEO and Social
